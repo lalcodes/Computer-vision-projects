@@ -3,7 +3,7 @@
 	url = https://github.com/lalcodes/Apparel-Feature-Extraction.git
 [submodule "repo2"]
 	path = Apparel-Descriptioin-Generation
-	url = https://github.com/lalcodes/Apparel-Descriptioin-Generation.git
+	url = https://github.com/lalcodes/Apparel-Description-Generation.git
 [submodule "OCR-using-Azure-services"]
 	path = OCR-using-Azure-services
 	url = https://github.com/lalcodes/OCR-using-Azure-services.git
