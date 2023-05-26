@@ -2,5 +2,5 @@
 	path = Apparel-Feature-Extraction
 	url = https://github.com/lalcodes/Apparel-Feature-Extraction.git
 [submodule "repo2"]
-	path = repo2
+	path = Apparel-Descriptioin-Generation
 	url = https://github.com/lalcodes/Apparel-Descriptioin-Generation.git
