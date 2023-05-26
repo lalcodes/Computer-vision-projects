@@ -7,3 +7,6 @@
 [submodule "OCR-using-Azure-services"]
 	path = OCR-using-Azure-services
 	url = https://github.com/lalcodes/OCR-using-Azure-services.git
+[submodule "Apparel-Feature-Extraction-V1"]
+	path = Apparel-Feature-Extraction-V1
+	url = https://github.com/lalcodes/Apparel-Feature-Extraction-V1.git
